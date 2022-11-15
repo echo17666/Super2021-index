@@ -112,6 +112,7 @@
 	<a href="http://lab.os.buaa.edu.cn/" class="btn">OSLab</a>
 	<a href="http://10.134.136.71:9995/" class="btn">SE</a>
 	<a href="http://network-lab.mooc.buaa.edu.cn/?m=Home" class="btn">计网</a>
+	<a href="https://zh.d2l.ai" class="btn">DL</a>
 </div>
 
 <div class="hero min-h-screen" style='background-image: url("image/bg.jpg");'>
