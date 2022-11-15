@@ -1,6 +1,6 @@
 <script>
 	import { onMount } from 'svelte';
-  import '../tailwind.css';
+  import '../app.css';
   import { fly,fade } from 'svelte/transition';
 
   let now = '';
